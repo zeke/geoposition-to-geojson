@@ -1,6 +1,6 @@
 # geoposition-to-geojson
 
-Turn an HTML5 Geoposition object into a [GeoJSON Point ](http://www.macwright.org/2015/03/23/geojson-second-bite.html#features).
+Turn an HTML5 Geoposition object into a [GeoJSON Point](http://www.macwright.org/2015/03/23/geojson-second-bite.html#features).
 
 Pairs well with [geolocation-stream](https://ghub.io/geolocation-stream) and
 [mapbox.js](https://www.mapbox.com/mapbox.js/example/v1.0.0/load-geojson/).
