@@ -1,7 +1,7 @@
 {
   "name": "geoposition-to-geojson",
   "version": "1.0.0",
-  "description": "Turn an HTML5 Geoposition object into a regular object that can be serialized with JSON.stringify",
+  "description": "Turn an HTML5 Geoposition object into a GeoJSON Point",
   "main": "index.js",
   "scripts": {
     "test": "node test.js | tap-spec"
